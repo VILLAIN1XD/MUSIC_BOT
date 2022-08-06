@@ -1,7 +1,7 @@
 ### A powerful bot that can play music on telegram group's voice chat with some useful features !!
 
 <p align="center">
-  <img src="https://telegra.ph/file/00a389a0c21a632ee29aa.jpg">
+  <img src="https://te.legra.ph/file/8963c9e4541769fc0d38f.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -63,31 +63,7 @@
 
 ## Contact & Support
 
-<a href="https://t.me/M8N_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/M8N_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/ll_BESTIE_EMPIRE_ll"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/VILLAINSUPPORT1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 
 
-## ⚠️ Security
-
-M8N-Music-Bot follows good practices of security, but 100% security cannot be assured. M8N-Music-Bot is provided **"as is"** without any **warranty**. Use at your own risk.
-
-For more information and to report security issues, please refer to our [`M8N • SUPPORT`](https://t.me/M8N_SUPPORT)
-
-## License
-
-Distributed under the [GNU General Public License v3.0 License](https://github.com/UnknownMortal/M8N-Music-Bot/blob/main/LICENSE) See `LICENSE.md` for more information.
-
-## Credits
-
-</details>
-
-<details>
-<summary><b>🌟 Click here to see Credits </b></summary>
-<br>
- 
-- CallsMusic 
-- PyTgCalls
-- Pyrogram
-- @Cool_Mortal
-- @M8N_OFFICIAL
-- @Its_romeoo
